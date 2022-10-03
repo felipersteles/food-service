@@ -1,3 +1,5 @@
-##Treinamento full-stack
+<h1>Projeto full-stack</h1>
 
-nada a declarar
+⚠️Projeto não publicado⚠️
+
+###Para fazer a visualização é necessário utilizar o git clone e rodar o comando yarn dev
