@@ -2,4 +2,4 @@
 
 ⚠️Projeto não publicado⚠️
 
-<h4>Para fazer a visualização é necessário utilizar o git clone e rodar o comando yarn dev</h4>
+<h4>Para fazer a visualização é necessário utilizar o git clone e rodar o comando npm run dev</h4>
